@@ -1,0 +1,48 @@
+X:\hobby\c hekje\DesignPatterns\DPW3A1\bin\Debug\net5.0-windows\DPW3A1.exe
+X:\hobby\c hekje\DesignPatterns\DPW3A1\bin\Debug\net5.0-windows\DPW3A1.deps.json
+X:\hobby\c hekje\DesignPatterns\DPW3A1\bin\Debug\net5.0-windows\DPW3A1.runtimeconfig.json
+X:\hobby\c hekje\DesignPatterns\DPW3A1\bin\Debug\net5.0-windows\DPW3A1.runtimeconfig.dev.json
+X:\hobby\c hekje\DesignPatterns\DPW3A1\bin\Debug\net5.0-windows\DPW3A1.dll
+X:\hobby\c hekje\DesignPatterns\DPW3A1\bin\Debug\net5.0-windows\ref\DPW3A1.dll
+X:\hobby\c hekje\DesignPatterns\DPW3A1\bin\Debug\net5.0-windows\DPW3A1.pdb
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.csproj.AssemblyReference.cache
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\MainWindow.g.cs
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\TrainDisplay.g.cs
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\App.g.cs
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1_MarkupCompile.cache
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1_MarkupCompile.lref
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\MainWindow.baml
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\TrainDisplay.baml
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.g.resources
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.GeneratedMSBuildEditorConfig.editorconfig
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.AssemblyInfoInputs.cache
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.AssemblyInfo.cs
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.csproj.CoreCompileInputs.cache
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.dll
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\ref\DPW3A1.dll
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.pdb
+X:\hobby\c hekje\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.genruntimeconfig.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\bin\Debug\net5.0-windows\DPW3A1.exe
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\bin\Debug\net5.0-windows\DPW3A1.deps.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\bin\Debug\net5.0-windows\DPW3A1.runtimeconfig.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\bin\Debug\net5.0-windows\DPW3A1.runtimeconfig.dev.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\bin\Debug\net5.0-windows\DPW3A1.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\bin\Debug\net5.0-windows\ref\DPW3A1.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\bin\Debug\net5.0-windows\DPW3A1.pdb
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.csproj.AssemblyReference.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\TrainDisplay.baml
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\TrainDisplay.g.cs
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1_MarkupCompile.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1_MarkupCompile.lref
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.g.resources
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.AssemblyInfoInputs.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.AssemblyInfo.cs
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.csproj.CoreCompileInputs.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\ref\DPW3A1.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.pdb
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW3A1\obj\Debug\net5.0-windows\DPW3A1.genruntimeconfig.cache

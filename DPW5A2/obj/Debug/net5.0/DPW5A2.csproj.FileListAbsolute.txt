@@ -1,0 +1,16 @@
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\bin\Debug\net5.0\DPW5A2.exe
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\bin\Debug\net5.0\DPW5A2.deps.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\bin\Debug\net5.0\DPW5A2.runtimeconfig.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\bin\Debug\net5.0\DPW5A2.runtimeconfig.dev.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\bin\Debug\net5.0\DPW5A2.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\bin\Debug\net5.0\ref\DPW5A2.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\bin\Debug\net5.0\DPW5A2.pdb
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\obj\Debug\net5.0\DPW5A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\obj\Debug\net5.0\DPW5A2.AssemblyInfoInputs.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\obj\Debug\net5.0\DPW5A2.AssemblyInfo.cs
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\obj\Debug\net5.0\DPW5A2.csproj.CoreCompileInputs.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\obj\Debug\net5.0\DPW5A2.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\obj\Debug\net5.0\ref\DPW5A2.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\obj\Debug\net5.0\DPW5A2.pdb
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\obj\Debug\net5.0\DPW5A2.genruntimeconfig.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW5A2\obj\Debug\net5.0\DPW5A2.csproj.AssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DPW2A1/1.0.0": {
+        "runtime": {
+          "DPW2A1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DPW2A1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

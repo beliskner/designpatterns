@@ -1,0 +1,46 @@
+X:\hobby\c hekje\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A1.deps.json
+X:\hobby\c hekje\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A1.runtimeconfig.json
+X:\hobby\c hekje\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A1.runtimeconfig.dev.json
+X:\hobby\c hekje\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A1.exe
+X:\hobby\c hekje\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A2.exe
+X:\hobby\c hekje\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A2.deps.json
+X:\hobby\c hekje\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A2.runtimeconfig.json
+X:\hobby\c hekje\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A2.runtimeconfig.dev.json
+X:\hobby\c hekje\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A2.dll
+X:\hobby\c hekje\DesignPatterns\DPW6A2\bin\Debug\net5.0\ref\DPW6A2.dll
+X:\hobby\c hekje\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A2.pdb
+X:\hobby\c hekje\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A1.dll
+X:\hobby\c hekje\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A1.pdb
+X:\hobby\c hekje\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.csproj.AssemblyReference.cache
+X:\hobby\c hekje\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.GeneratedMSBuildEditorConfig.editorconfig
+X:\hobby\c hekje\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.AssemblyInfoInputs.cache
+X:\hobby\c hekje\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.AssemblyInfo.cs
+X:\hobby\c hekje\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.csproj.CoreCompileInputs.cache
+X:\hobby\c hekje\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.csproj.CopyComplete
+X:\hobby\c hekje\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.dll
+X:\hobby\c hekje\DesignPatterns\DPW6A2\obj\Debug\net5.0\ref\DPW6A2.dll
+X:\hobby\c hekje\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.pdb
+X:\hobby\c hekje\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.genruntimeconfig.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A1.deps.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A1.runtimeconfig.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A1.runtimeconfig.dev.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A1.exe
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A2.exe
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A2.deps.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A2.runtimeconfig.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A2.runtimeconfig.dev.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A2.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\bin\Debug\net5.0\ref\DPW6A2.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A2.pdb
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A1.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\bin\Debug\net5.0\DPW6A1.pdb
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.csproj.AssemblyReference.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.AssemblyInfoInputs.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.AssemblyInfo.cs
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.csproj.CoreCompileInputs.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.csproj.CopyComplete
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\obj\Debug\net5.0\ref\DPW6A2.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.pdb
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW6A2\obj\Debug\net5.0\DPW6A2.genruntimeconfig.cache

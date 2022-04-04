@@ -1,0 +1,77 @@
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\bin\Debug\netcoreapp3.1\ConwayGameOfLife.exe
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\bin\Debug\netcoreapp3.1\ConwayGameOfLife.deps.json
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\bin\Debug\netcoreapp3.1\ConwayGameOfLife.runtimeconfig.json
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\bin\Debug\netcoreapp3.1\ConwayGameOfLife.runtimeconfig.dev.json
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\bin\Debug\netcoreapp3.1\ConwayGameOfLife.dll
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\bin\Debug\netcoreapp3.1\ConwayGameOfLife.pdb
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife_MarkupCompile.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife_MarkupCompile.lref
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife.g.resources
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.AssemblyInfoInputs.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.AssemblyInfo.cs
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.csproj.CoreCompileInputs.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife.dll
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife.pdb
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.genruntimeconfig.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.csprojAssemblyReference.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\bin\Debug\netcoreapp3.1\ConwayGameOfLife.exe
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\bin\Debug\netcoreapp3.1\ConwayGameOfLife.deps.json
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\bin\Debug\netcoreapp3.1\ConwayGameOfLife.runtimeconfig.json
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\bin\Debug\netcoreapp3.1\ConwayGameOfLife.runtimeconfig.dev.json
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\bin\Debug\netcoreapp3.1\ConwayGameOfLife.dll
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\bin\Debug\netcoreapp3.1\ConwayGameOfLife.pdb
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife_MarkupCompile.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife_MarkupCompile.lref
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife.g.resources
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.AssemblyInfoInputs.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.AssemblyInfo.cs
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.csproj.CoreCompileInputs.cache
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife.dll
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife.pdb
+C:\Users\gerwin.vandijken\OneDrive - Hogeschool Inholland\Werk\Inholland\VS-projects\VS-2015-Projects\DesignPatterns\ConwayGameOfLife\ConwayGameOfLife-student\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.genruntimeconfig.cache
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\bin\Debug\netcoreapp3.1\ConwayGameOfLife.exe
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\bin\Debug\netcoreapp3.1\ConwayGameOfLife.deps.json
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\bin\Debug\netcoreapp3.1\ConwayGameOfLife.runtimeconfig.json
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\bin\Debug\netcoreapp3.1\ConwayGameOfLife.runtimeconfig.dev.json
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\bin\Debug\netcoreapp3.1\ConwayGameOfLife.dll
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\bin\Debug\netcoreapp3.1\ConwayGameOfLife.pdb
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.csproj.AssemblyReference.cache
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\obj\Debug\netcoreapp3.1\App.g.cs
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\obj\Debug\netcoreapp3.1\ConwayGameOfLife_MarkupCompile.cache
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\obj\Debug\netcoreapp3.1\ConwayGameOfLife_MarkupCompile.lref
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\obj\Debug\netcoreapp3.1\MainWindow.baml
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\obj\Debug\netcoreapp3.1\ConwayGameOfLife.g.resources
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.GeneratedMSBuildEditorConfig.editorconfig
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.AssemblyInfoInputs.cache
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.AssemblyInfo.cs
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.csproj.CoreCompileInputs.cache
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\obj\Debug\netcoreapp3.1\ConwayGameOfLife.dll
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\obj\Debug\netcoreapp3.1\ConwayGameOfLife.pdb
+X:\hobby\c hekje\ConwayGameOfLife-student-week4\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.genruntimeconfig.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\bin\Debug\netcoreapp3.1\DPW4A2.exe
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\bin\Debug\netcoreapp3.1\DPW4A2.deps.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\bin\Debug\netcoreapp3.1\DPW4A2.runtimeconfig.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\bin\Debug\netcoreapp3.1\DPW4A2.runtimeconfig.dev.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\bin\Debug\netcoreapp3.1\DPW4A2.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\bin\Debug\netcoreapp3.1\DPW4A2.pdb
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.csproj.AssemblyReference.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\obj\Debug\netcoreapp3.1\DPW4A2_MarkupCompile.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\obj\Debug\netcoreapp3.1\DPW4A2_MarkupCompile.lref
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\obj\Debug\netcoreapp3.1\DPW4A2.g.resources
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.AssemblyInfoInputs.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.AssemblyInfo.cs
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.csproj.CoreCompileInputs.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\obj\Debug\netcoreapp3.1\DPW4A2.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\obj\Debug\netcoreapp3.1\DPW4A2.pdb
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW4A2\obj\Debug\netcoreapp3.1\ConwayGameOfLife-student.genruntimeconfig.cache

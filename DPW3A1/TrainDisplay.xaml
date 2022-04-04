@@ -1,0 +1,14 @@
+﻿<Window DataContext="{Binding RelativeSource={RelativeSource Self}}"
+        x:Name="window"
+        x:Class="DPW3A1.TrainDisplay"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    mc:Ignorable="d"
+        Title="TrainDisplay" Height="110" Width="220">
+    <Grid>
+        <Label x:Name="lblStationName" Content="{Binding ElementName=window, Path=Station.Name, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Center" Width="100" Margin="0,10,0,54" />
+        <Label x:Name="lblStationTrack" Content="{Binding Station.ArrivalTrack, ElementName=window, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Center" Width="100" Margin="0,54,0,10" />
+    </Grid>
+</Window>

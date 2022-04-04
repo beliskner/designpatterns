@@ -1,0 +1,32 @@
+X:\hobby\c hekje\DesignPatterns\DPW1A1\bin\Debug\net5.0\DPW1A1.exe
+X:\hobby\c hekje\DesignPatterns\DPW1A1\bin\Debug\net5.0\DPW1A1.deps.json
+X:\hobby\c hekje\DesignPatterns\DPW1A1\bin\Debug\net5.0\DPW1A1.runtimeconfig.json
+X:\hobby\c hekje\DesignPatterns\DPW1A1\bin\Debug\net5.0\DPW1A1.runtimeconfig.dev.json
+X:\hobby\c hekje\DesignPatterns\DPW1A1\bin\Debug\net5.0\DPW1A1.dll
+X:\hobby\c hekje\DesignPatterns\DPW1A1\bin\Debug\net5.0\ref\DPW1A1.dll
+X:\hobby\c hekje\DesignPatterns\DPW1A1\bin\Debug\net5.0\DPW1A1.pdb
+X:\hobby\c hekje\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.csproj.AssemblyReference.cache
+X:\hobby\c hekje\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.GeneratedMSBuildEditorConfig.editorconfig
+X:\hobby\c hekje\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.AssemblyInfoInputs.cache
+X:\hobby\c hekje\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.AssemblyInfo.cs
+X:\hobby\c hekje\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.csproj.CoreCompileInputs.cache
+X:\hobby\c hekje\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.dll
+X:\hobby\c hekje\DesignPatterns\DPW1A1\obj\Debug\net5.0\ref\DPW1A1.dll
+X:\hobby\c hekje\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.pdb
+X:\hobby\c hekje\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.genruntimeconfig.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\bin\Debug\net5.0\DPW1A1.exe
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\bin\Debug\net5.0\DPW1A1.deps.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\bin\Debug\net5.0\DPW1A1.runtimeconfig.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\bin\Debug\net5.0\DPW1A1.runtimeconfig.dev.json
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\bin\Debug\net5.0\DPW1A1.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\bin\Debug\net5.0\ref\DPW1A1.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\bin\Debug\net5.0\DPW1A1.pdb
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.csproj.AssemblyReference.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.AssemblyInfoInputs.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.AssemblyInfo.cs
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.csproj.CoreCompileInputs.cache
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\obj\Debug\net5.0\ref\DPW1A1.dll
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.pdb
+C:\Users\wilmar.de.hoogd.THEVALLEY\College\DesignPatterns\DPW1A1\obj\Debug\net5.0\DPW1A1.genruntimeconfig.cache

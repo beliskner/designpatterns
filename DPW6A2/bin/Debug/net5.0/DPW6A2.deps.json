@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DPW6A2/1.0.0": {
+        "dependencies": {
+          "DPW6A1": "1.0.0"
+        },
+        "runtime": {
+          "DPW6A2.dll": {}
+        }
+      },
+      "DPW6A1/1.0.0": {
+        "runtime": {
+          "DPW6A1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DPW6A2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DPW6A1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
